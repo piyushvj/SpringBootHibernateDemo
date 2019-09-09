@@ -1,0 +1,5 @@
+1. to run mysql on local machine : C:\Program Files\MySQL\MySQL Shell 8.0\bin\mysqlsh.exe
+2. for mysql ui open > MySQL Workbench from start menu
+
+3. application may run on any port, try below url with new port :
+http://localhost:59527/getEmployeeList
